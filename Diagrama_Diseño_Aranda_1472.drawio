@@ -88,8 +88,8 @@
             <mxPoint x="759.9930100000001" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lzyeh1dH90-VRUioqBKs-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;FACTURA DIGITAL&lt;/font&gt;" style="dashed=0;html=1;fillColor=none;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="440" y="110" width="250" height="50" as="geometry" />
+        <mxCell id="Lzyeh1dH90-VRUioqBKs-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Solución Actual Autorización Envió Factura Digital&lt;/font&gt;" style="dashed=0;html=1;fillColor=none;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0;imageAlign=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="610" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
