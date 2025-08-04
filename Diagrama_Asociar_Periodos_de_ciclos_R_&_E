@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="Página-1" id="GaKZNHGlAN73U_5XXHMx">
-    <mxGraphModel dx="1668" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="278.75" y="331" width="592.5" height="290" as="geometry" />
         </mxCell>
         <mxCell id="tklojOHJzrnAR231xeOE-23" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="330" width="592.5" height="290" as="geometry" />
+          <mxGeometry x="-65" y="315" width="592.5" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tklojOHJzrnAR231xeOE-1" value="OSF v8.0 CEO" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=15;image=img/lib/mscae/Software_as_a_Service.svg;labelBackgroundColor=light-dark(#dae8fc, #ededed);fontColor=light-dark(#280eec, #ededed);fontStyle=1;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="857.5" y="250" width="110" height="110" as="geometry" />
@@ -78,8 +78,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PaSD0ZUk3fDogM5hzEUK-1" value="Solucion&lt;div&gt;Relación de Periodos de Ciclos Especiales y Regulares&lt;/div&gt;" style="text;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=3;fontColor=light-dark(#555555, #ededed);" vertex="1" parent="1">
+        <mxCell id="PaSD0ZUk3fDogM5hzEUK-1" value="Solucion&lt;div&gt;Relación de Periodos de Ciclos Especiales y Regulares&lt;/div&gt;" style="text;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=3;fontColor=light-dark(#555555, #ededed);" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="920" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DQhsDFS7Y7FfYDSMO6gJ-1" value="Ruta&lt;div&gt;Parametrizada&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/WHCompare_Servers___Web_Hosting-2845/sftp-1033.svg;fontStyle=1;fontColor=light-dark(#3b8df1, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DQhsDFS7Y7FfYDSMO6gJ-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="DQhsDFS7Y7FfYDSMO6gJ-1" target="tklojOHJzrnAR231xeOE-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
