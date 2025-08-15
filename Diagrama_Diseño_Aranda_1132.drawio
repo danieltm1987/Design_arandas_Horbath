@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PaSD0ZUk3fDogM5hzEUK-1" value="Solucion&lt;div&gt;Relación de Periodos de Ciclos Especiales y Regulares&lt;/div&gt;" style="text;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=3;fontColor=light-dark(#555555, #ededed);" parent="1" vertex="1">
+        <mxCell id="PaSD0ZUk3fDogM5hzEUK-1" value="Solución&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(85, 85, 85), rgb(237, 237, 237));&quot;&gt;Asignación Masiva de Materiales y Equipos&lt;/span&gt;" style="text;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=3;fontColor=light-dark(#555555, #ededed);" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="920" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DQhsDFS7Y7FfYDSMO6gJ-1" value="Ruta&lt;div&gt;Parametrizada&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/WHCompare_Servers___Web_Hosting-2845/sftp-1033.svg;fontStyle=1;fontColor=light-dark(#3b8df1, #ededed);" parent="1" vertex="1">
