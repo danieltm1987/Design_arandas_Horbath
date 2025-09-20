@@ -43,7 +43,7 @@
         <mxCell id="tklojOHJzrnAR231xeOE-17" value="Servidor Base de datos" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Oracle_Database.svg;labelBackgroundColor=light-dark(#dae8fc, #ededed);fontColor=light-dark(#f20d0d, #ededed);" parent="1" vertex="1">
           <mxGeometry x="527.5" y="580" width="85" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="tklojOHJzrnAR231xeOE-26" value="Procedimiento&#xa;[]&#xa;utilizado en API&#xa;{}&#xa;&#xa;" style="group;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1;fontColor=light-dark(#3b8df1, #ededed);fontSize=11;" parent="1" vertex="1" connectable="0">
+        <mxCell id="tklojOHJzrnAR231xeOE-26" value="Uso de Objetos de OSF &#xa;ORPTM&#xa;&#xa;" style="group;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1;fontColor=light-dark(#3b8df1, #ededed);fontSize=11;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="525" y="350" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tklojOHJzrnAR231xeOE-25" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.folders" parent="tklojOHJzrnAR231xeOE-26" vertex="1">
